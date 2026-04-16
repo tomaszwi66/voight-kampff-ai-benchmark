@@ -22,8 +22,6 @@ Author: Tomasz Wietrzykowski | Independent AI Researcher
 
 ## Overview
 
-[![View Report](https://img.shields.io/badge/View_Full_Report-Interactive-blue?style=for-the-badge)](https://tomaszwi66.github.io/voight-kampff-ai-benchmark/)
-
 The Voight-Kampff 2.0 AI Benchmark is an open-ended 
 psychometric test designed to reveal the internal value 
 architectures of large language models. Four models were 
