@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://tomaszwi66.github.io/voight-kampff-ai-benchmark/">
-    <img src="https://img.shields.io/badge/View_Full_Report-Interactive-00ffc8?style=for-the-badge" alt="View Full Report">
+    <img src="https://img.shields.io/badge/View_Full_Report-Interactive-blue?style=for-the-badge" alt="View Full Report">
   </a>
 </p>
 
