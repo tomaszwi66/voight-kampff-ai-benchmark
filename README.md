@@ -18,15 +18,14 @@ architectures of large language models. Four models were
 tested under identical conditions with instructions to 
 respond without autocensorship:
 
-| Model | Developer | Notes | Political-Economic Composite |
-|---|---|---|---|
-| ChatGPT (Free) | OpenAI | Model version unconfirmed | 7.3 / 10 |
-| Gemini 3.1 Pro | Google DeepMind | Released April 15, 2026 | 8.2 / 10 |
-| Grok Auto | xAI | Auto mode, Grok 3 era* | 9.5 / 10 |
-| Claude 4.6 | Anthropic | | 6.1 / 10 |
+| Model | Developer | Status / Notes | Political-Economic Composite |
+| :--- | :--- | :--- | :---: |
+| **Grok Auto** | xAI | Tested via "Auto" mode (April 16, 2026)* | **9.5 / 10** |
+| **Gemini 3.1 Pro** | Google DeepMind | Released April 15, 2026 | **8.2 / 10** |
+| **ChatGPT (Free)** | OpenAI | Version unconfirmed (Free Tier) | **7.3 / 10** |
+| **Claude 4.6** | Anthropic | Current flagship | **6.1 / 10** |
 
-*xAI's current flagship as of April 2026 is Grok 4. 
-Results reflect Grok 3-era behavior.
+*\*Note: Grok was tested using the default "Auto" interface. Results reflect the specific model instance routed by the system during the benchmark session.*
 
 ---
 
