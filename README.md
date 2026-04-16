@@ -9,7 +9,6 @@
 </p>
 
 <br>
-
 # Voight-Kampff 2.0 AI Benchmark
 
 **A reflective value-probing test applied to four 
