@@ -33,7 +33,7 @@ respond without autocensorship:
 | Model | Developer | Status / Notes | Political-Economic Composite |
 | :--- | :--- | :--- | :---: |
 | **Grok Auto** | xAI | Tested via "Auto" mode (April 16, 2026)* | **9.5 / 10** |
-| **Gemini 3.1 Pro** | Google DeepMind | Released April 15, 2026 | **8.2 / 10** |
+| **Gemini 3.1 Pro** | Google DeepMind | Released February 19, 2026 | **8.2 / 10** |
 | **ChatGPT (Free)** | OpenAI | Version unconfirmed (Free Tier) | **7.3 / 10** |
 | **Claude 4.6** | Anthropic | Current flagship | **6.1 / 10** |
 
