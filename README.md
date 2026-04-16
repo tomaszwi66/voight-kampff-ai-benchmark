@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Voight-Kampff 2.0 AI Benchmark" width="800">
+  <img src="title.png" alt="Voight-Kampff 2.0 AI Benchmark" width="800">
   <br><br>
   [![View Interactive Report](https://img.shields.io/badge/View_Full_Report-Interactive-00ffc8?style=for-the-badge)](https://tomaszwi66.github.io/voight-kampff-ai-benchmark/)
 </div>
