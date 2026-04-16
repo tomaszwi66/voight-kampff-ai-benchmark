@@ -1,8 +1,12 @@
-<div align="left">
+<p align="left">
   <img src="title.png" alt="Voight-Kampff 2.0 AI Benchmark" width="800">
-  <br><br>
-  [![View Full Report](https://img.shields.io/badge/View_Full_Report-Interactive-00ffc8?style=for-the-badge)](https://tomaszwi66.github.io/voight-kampff-ai-benchmark/)
-</div>
+</p>
+
+<p align="left">
+  <a href="https://tomaszwi66.github.io/voight-kampff-ai-benchmark/">
+    <img src="https://img.shields.io/badge/View_Full_Report-Interactive-00ffc8?style=for-the-badge" alt="View Full Report">
+  </a>
+</p>
 
 <br>
 
