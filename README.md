@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/View_Full_Report-Interactive-blue?style=for-the-badge" alt="View Full Report">
   </a>
 </p>
+
 <br>
 # Voight-Kampff 2.0 AI Benchmark
 
